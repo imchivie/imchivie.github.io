@@ -143,7 +143,7 @@ section {
 }
 @keyframes rotate {
     0%,20%{transform: rotate(0deg);}
-    25%,45%{transform: rotate(-110deg);}
+    25%,45%{transform: rotate(-113deg);}
     50%,70%{transform: rotate(-225deg);}
     75%,950%{transform: rotate(-270deg);}
 }
